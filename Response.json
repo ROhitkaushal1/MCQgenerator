@@ -1,0 +1,37 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "Berlin",
+          "London",
+          "Paris",
+          "Madrid"
+        ],
+        "correct_answer": "Paris"
+      },
+      {
+        "question": "Which data structure uses FIFO order?",
+        "options": [
+          "Stack",
+          "Queue",
+          "Tree",
+          "Graph"
+        ],
+        "correct_answer": "Queue"
+      },
+      {
+        "question": "What does CPU stand for?",
+        "options": [
+          "Central Processing Unit",
+          "Control Program Unit",
+          "Computer Personal Unit",
+          "Central Program Utility"
+        ],
+        "correct_answer": "Central Processing Unit"
+      }
+    ]
+  },
+  "review": "The questions are generated based on the given content. They cover basic concepts with clear and varied options."
+}
